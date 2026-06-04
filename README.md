@@ -1,3 +1,5 @@
+Link to access : https://ai.studio/apps/09d9bd79-6a5e-489e-9771-19018ef31b2a?fullscreenApplet=true
+
 # 🚌 BusTrack Bharat — Urban & Rural Transit GPS Tracking System
 
 BusTrack Bharat is a high-fidelity, full-stack transit mapping, routing, and real-time AI-predicted ETA system designed for urban-rural corridors in India. It includes separate dashboards for **Passengers**, **Drivers**, and **Administrators**, and runs effortlessly on both remote systems and your local machine.
