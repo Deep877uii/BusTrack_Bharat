@@ -1,0 +1,6 @@
+{
+  "name": "BusTrack Bharat",
+  "description": "A real-time rural bus tracking and AI-powered ETA prediction system optimized for low-connectivity environments.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
